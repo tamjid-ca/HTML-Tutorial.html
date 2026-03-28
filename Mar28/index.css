@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 2rem;
+    background: #f8f8f8;
+}
+
+p {
+    margin: 0.6rem 0;
+    color: #333;
+}
+
+mark {
+    background-color: #ffec99;
+}
+
+p:last-of-type {
+    color: #d22;
+}
